@@ -8,7 +8,7 @@
     <th>Home Screen</th>
   </tr>
   <tr>
-    <td><img src="Screenshots/SplashScreen.jpg" width="300"></td>
+    <td><img src="Screenshots/Splash Screen.jpg" width="300"></td>
     <td><img src="Screenshots/UserList.jpg" width="300"></td>
   </tr>
   <tr>
