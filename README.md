@@ -24,7 +24,7 @@
     <th>Transaction History</th>
   </tr>
   <tr>
-    <td><img src="Screenshots/EmptyTransactionList.jpg" width="300"></td>
+   
     <td><img src="Screenshots/TransactionHistory.jpg" width="300"></td>
   </tr>
   <tr>
